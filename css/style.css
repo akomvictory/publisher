@@ -804,7 +804,8 @@ a:focus {
 }
 
 .banner {
-  background: url("../images/banner/banner.jpg") center center no-repeat;
+  /* background: url("../images/banner/banner.jpg") center center no-repeat; */
+  background: url("../images/m 4.jpg") center center no-repeat;
   background-size: cover;
   overflow: hidden;
 }
